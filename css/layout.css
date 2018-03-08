@@ -1,0 +1,73 @@
+/*
+FLEXBOX
+*/
+
+
+.flex-center {
+    display: flex;
+    color: #111010;
+    flex-direction: row;
+  } 
+  
+  .flex-row{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+.flex-column{
+    display: flex;
+    flex-direction: column;
+}
+
+.flex-item{
+font-size: 30px;
+color: #0088ce;
+padding: 50px;
+}
+
+.flex-navbar{
+    padding:10px;
+}
+
+ .flex-content{
+    flex: 0 1 auto; 
+ } 
+  /*slett meg*/
+
+
+    
+  .flex-sak{
+      width: 400px;
+      height: 400px;
+
+  }
+
+
+.navbar{
+    border-style: solid;
+    flex-direction: row;
+    width: 100%;
+    height: 50px;
+    align-items: center;
+}
+
+    
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
+
+}
+.temp{
+    height: 150px;
+    width: 150px;
+}
+
+
+

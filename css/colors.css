@@ -41,3 +41,6 @@ color: #f3efef;
 .background1{
 background-color: #000000;  
 }
+.border{
+    border: solid 2px black;
+}
