@@ -1,10 +1,22 @@
-.primary{
+.color-primary{
 color: #1d40d8;
 }
-.accent{
+.color-primary-dark{
+color: darkblue;    
+}
+.color-primary-light{
+color: lightblue;
+}
+.color-background-main{
+background-color: indianred;
+}
+.color-background-secondary{
+background-color: indianred;
+}
+.color-accent{
 color: #268d12;    
 }
-.success{
+.color-success{
 color: #ffd11a;
 
 }
@@ -42,5 +54,5 @@ color: #f3efef;
 background-color: #000000;  
 }
 .border{
-    border: solid 2px black;
+    border: solid 1px black;
 }
